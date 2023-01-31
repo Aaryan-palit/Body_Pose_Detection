@@ -1,1 +1,4 @@
-# Body_Pose_Detection
+# Virtual_Excercise
+The aim of the project is to To make a real-time body language/pose detection system that could be used in an real world in the field of AI-powered self-coaching industry.
+
+Body pose detection works best when the subject's entire body is visible in the frame, but it also detects a partial body pose. Pose estimation is a popular task in Computer Vision. As a field of artificial intelligence (AI), computer vision enables machines to perform image processing tasks with the aim of imitating human vision.In that case the landmarks that are not recognized are assigned coordinates outside of the image. This idea can be used to implement in FITNESS INDUSTRY. It is used to identify human joints and provide the user with guidance on how to exercise the right way. For example, head pose estimation is essential when the user is doing a plank. The app estimates the position of the head to avoid injuries while exercising.
